@@ -1,0 +1,27 @@
+Leather Client Proprietary Software License
+Copyright (c) 2026 Leather Client contributors. All rights reserved.
+
+You may download, install, and use official Leather Client builds for personal
+use. No ownership of Leather Client is transferred to you.
+
+Except as expressly permitted here or required by applicable law, you may not
+copy, modify, redistribute, sell, sublicense, reverse engineer, decompile, or
+create derivative works of Leather Client without prior written permission.
+
+Flathub and its infrastructure operators are permitted to package, host, mirror,
+and distribute official Leather Client binaries, including changes necessary
+solely for Flatpak packaging and desktop integration. Users may install and use
+those packages. This permission does not grant access to proprietary source code.
+
+Third-party software, including bundled open-source components, remains subject
+to its own licenses. This license does not restrict rights granted by those
+licenses. Minecraft is owned by its respective rights holders and requires a
+valid entitlement where applicable. Leather Client is not affiliated with or
+endorsed by Mojang or Microsoft.
+
+The software is provided "AS IS", without warranties of any kind, to the extent
+permitted by law. To that extent, the copyright holders are not liable for damages
+arising from use of the software. Mandatory consumer rights remain unaffected.
+
+Permission under this license terminates upon a material breach. Contact
+hi@leatherclient.net for permissions or licensing questions.
